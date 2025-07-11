@@ -112,13 +112,13 @@ button:hover {
     .container {
         flex-direction: column;
         justify-content: space-around;
-        gap: 20px;
-        padding: 20px;
+        gap: 0px;
+        margin: 0px;
     }
 
     .player {
-    width: 140px;
-    height: 140px;
+    width: 100px;
+    height: 100px;
 }
 
     .board {
